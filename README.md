@@ -17,9 +17,13 @@ I analyze data to turn raw information into clear business insights, dashboards,
 - Operations Analytics
 
 ### 📊 Portfolio Projects
-Here you can find my projects in Excel, Google Sheets, SQL, Power BI, Tableau, Python, and Business Analysis.
 
-I focus on data analysis, dashboards, business insights, financial analysis, and operational reporting.
+Explore my selected data analytics projects:
+
+- [Google Sheets Projects](https://github.com/ElinaCimsit/Google-Sheets-Projects)
+- [Excel Projects](https://github.com/ElinaCimsit/Excel-Projects)
+
+More projects in Power BI, Tableau, SQL, and Python will be added as my portfolio grows.
 
 ### 📫 Contact
 - LinkedIn: [linkedin.com/in/elina-cimsit](https://www.linkedin.com/in/elina-cimsit)
