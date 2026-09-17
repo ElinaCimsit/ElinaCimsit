@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Elina 👋
 
-<!--
-**ElinaCimsit/ElinaCimsit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data & BI Analyst | Financial & Operations Analytics
 
-Here are some ideas to get you started:
+I analyze data to turn raw information into clear business insights, dashboards, financial analysis, and operational reports.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools & Skills
+- Excel
+- Google Sheets
+- SQL
+- Power BI
+- Tableau
+- Python
+- Data Visualization
+- Business Analysis
+- Financial Analysis
+- Operations Analytics
+
+### 📊 Portfolio Projects
+Here you can find my projects in Excel, Google Sheets, SQL, Power BI, Tableau, Python, and Business Analysis.
+
+I focus on data analysis, dashboards, business insights, financial analysis, and operational reporting.
+
+### 📫 Contact
+- LinkedIn: [linkedin.com/in/elina-cimsit](https://www.linkedin.com/in/elina-cimsit)
+- Email: [elina.cimsit@gmail.com](mailto:elina.cimsit@gmail.com)
