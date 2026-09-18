@@ -22,6 +22,8 @@ Explore my selected data analytics projects:
 
 - [Google Sheets Projects](https://github.com/ElinaCimsit/Google-Sheets-Projects)
 - [Excel Projects](https://github.com/ElinaCimsit/Excel-Projects)
+- [Power BI Projects](https://github.com/ElinaCimsit/Power-BI-Projects)
+- [Tableau Projects](https://github.com/ElinaCimsit/Tableau-Projects)
 
 More projects in Power BI, Tableau, SQL, and Python will be added as my portfolio grows.
 
